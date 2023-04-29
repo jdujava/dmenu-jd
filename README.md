@@ -1,3 +1,10 @@
+My fork of `dmenu`.
+
+To set upstream remote to original dmenu repo:
+```sh
+git remote add upstream git://git.suckless.org/dmenu
+```
+
 dmenu - dynamic menu
 ====================
 dmenu is an efficient dynamic menu for X.
